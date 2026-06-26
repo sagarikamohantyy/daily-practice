@@ -7,6 +7,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sagarikamohantyy/daily-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/sagarikamohantyy/daily-practice/tree/master/0014-longest-common-prefix) |
 | [0485-max-consecutive-ones](https://github.com/sagarikamohantyy/daily-practice/tree/master/0485-max-consecutive-ones) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
 | [1732-find-the-highest-altitude](https://github.com/sagarikamohantyy/daily-practice/tree/master/1732-find-the-highest-altitude) |
@@ -43,6 +44,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sagarikamohantyy/daily-practice/tree/master/0014-longest-common-prefix) |
 | [1189-maximum-number-of-balloons](https://github.com/sagarikamohantyy/daily-practice/tree/master/1189-maximum-number-of-balloons) |
 | [2942-find-words-containing-character](https://github.com/sagarikamohantyy/daily-practice/tree/master/2942-find-words-containing-character) |
 ## Prefix Sum
@@ -53,4 +55,8 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sagarikamohantyy/daily-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
