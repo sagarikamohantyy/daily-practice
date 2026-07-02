@@ -45,6 +45,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
 | [1189-maximum-number-of-balloons](https://github.com/sagarikamohantyy/daily-practice/tree/master/1189-maximum-number-of-balloons) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0520-detect-capital](https://github.com/sagarikamohantyy/daily-practice/tree/master/0520-detect-capital) |
 | [1189-maximum-number-of-balloons](https://github.com/sagarikamohantyy/daily-practice/tree/master/1189-maximum-number-of-balloons) |
 | [2942-find-words-containing-character](https://github.com/sagarikamohantyy/daily-practice/tree/master/2942-find-words-containing-character) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Prefix Sum
 |  |
 | ------- |
