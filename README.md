@@ -12,6 +12,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0485-max-consecutive-ones](https://github.com/sagarikamohantyy/daily-practice/tree/master/0485-max-consecutive-ones) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
+| [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/sagarikamohantyy/daily-practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sagarikamohantyy/daily-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2942-find-words-containing-character](https://github.com/sagarikamohantyy/daily-practice/tree/master/2942-find-words-containing-character) |
@@ -31,6 +32,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
 | [1189-maximum-number-of-balloons](https://github.com/sagarikamohantyy/daily-practice/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/sagarikamohantyy/daily-practice/tree/master/1833-maximum-ice-cream-bars) |
 ## Binary Search
 |  |
@@ -45,6 +47,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | ------- |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
 | [1189-maximum-number-of-balloons](https://github.com/sagarikamohantyy/daily-practice/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -80,4 +83,8 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sagarikamohantyy/daily-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Math
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
