@@ -9,6 +9,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0004-median-of-two-sorted-arrays](https://github.com/sagarikamohantyy/daily-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sagarikamohantyy/daily-practice/tree/master/0014-longest-common-prefix) |
 | [0075-sort-colors](https://github.com/sagarikamohantyy/daily-practice/tree/master/0075-sort-colors) |
+| [0120-triangle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0485-max-consecutive-ones](https://github.com/sagarikamohantyy/daily-practice/tree/master/0485-max-consecutive-ones) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
@@ -78,6 +79,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 ## Dynamic Programming
 |  |
 | ------- |
+| [0120-triangle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## String Matching
 |  |
