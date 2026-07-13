@@ -8,6 +8,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sagarikamohantyy/daily-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sagarikamohantyy/daily-practice/tree/master/0014-longest-common-prefix) |
+| [0055-jump-game](https://github.com/sagarikamohantyy/daily-practice/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/sagarikamohantyy/daily-practice/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarikamohantyy/daily-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -21,6 +22,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sagarikamohantyy/daily-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/sagarikamohantyy/daily-practice/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
@@ -80,6 +82,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/sagarikamohantyy/daily-practice/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarikamohantyy/daily-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
