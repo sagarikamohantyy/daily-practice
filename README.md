@@ -29,6 +29,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sagarikamohantyy/daily-practice/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/sagarikamohantyy/daily-practice/tree/master/0242-valid-anagram) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
 | [1833-maximum-ice-cream-bars](https://github.com/sagarikamohantyy/daily-practice/tree/master/1833-maximum-ice-cream-bars) |
 ## Counting Sort
@@ -50,6 +51,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sagarikamohantyy/daily-practice/tree/master/0242-valid-anagram) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
 | [1189-maximum-number-of-balloons](https://github.com/sagarikamohantyy/daily-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
@@ -60,6 +62,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0014-longest-common-prefix](https://github.com/sagarikamohantyy/daily-practice/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sagarikamohantyy/daily-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/sagarikamohantyy/daily-practice/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sagarikamohantyy/daily-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sagarikamohantyy/daily-practice/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/sagarikamohantyy/daily-practice/tree/master/0520-detect-capital) |
 | [1189-maximum-number-of-balloons](https://github.com/sagarikamohantyy/daily-practice/tree/master/1189-maximum-number-of-balloons) |
