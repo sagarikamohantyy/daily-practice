@@ -13,6 +13,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0120-triangle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarikamohantyy/daily-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/sagarikamohantyy/daily-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/sagarikamohantyy/daily-practice/tree/master/0485-max-consecutive-ones) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
@@ -45,6 +46,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sagarikamohantyy/daily-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0209-minimum-size-subarray-sum](https://github.com/sagarikamohantyy/daily-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -76,6 +78,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sagarikamohantyy/daily-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [1732-find-the-highest-altitude](https://github.com/sagarikamohantyy/daily-practice/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -111,4 +114,8 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sagarikamohantyy/daily-practice/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/sagarikamohantyy/daily-practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
