@@ -46,6 +46,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sagarikamohantyy/daily-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/sagarikamohantyy/daily-practice/tree/master/0191-number-of-1-bits) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,8 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/sagarikamohantyy/daily-practice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
