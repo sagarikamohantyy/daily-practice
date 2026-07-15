@@ -109,6 +109,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0231-power-of-two](https://github.com/sagarikamohantyy/daily-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sagarikamohantyy/daily-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -124,4 +125,8 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sagarikamohantyy/daily-practice/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sagarikamohantyy/daily-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
