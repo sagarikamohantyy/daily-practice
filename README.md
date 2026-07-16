@@ -21,6 +21,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [1732-find-the-highest-altitude](https://github.com/sagarikamohantyy/daily-practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sagarikamohantyy/daily-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2942-find-words-containing-character](https://github.com/sagarikamohantyy/daily-practice/tree/master/2942-find-words-containing-character) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
 | [1833-maximum-ice-cream-bars](https://github.com/sagarikamohantyy/daily-practice/tree/master/1833-maximum-ice-cream-bars) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0125-valid-palindrome](https://github.com/sagarikamohantyy/daily-practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sagarikamohantyy/daily-practice/tree/master/0344-reverse-string) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
 |  |
 | ------- |
@@ -111,6 +114,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sagarikamohantyy/daily-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,4 +133,9 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sagarikamohantyy/daily-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
