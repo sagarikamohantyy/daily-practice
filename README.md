@@ -17,6 +17,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/sagarikamohantyy/daily-practice/tree/master/0485-max-consecutive-ones) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
+| [1331-rank-transform-of-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/sagarikamohantyy/daily-practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sagarikamohantyy/daily-practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -35,6 +36,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0242-valid-anagram](https://github.com/sagarikamohantyy/daily-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
+| [1331-rank-transform-of-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sagarikamohantyy/daily-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
@@ -62,6 +64,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
 | [1189-maximum-number-of-balloons](https://github.com/sagarikamohantyy/daily-practice/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
