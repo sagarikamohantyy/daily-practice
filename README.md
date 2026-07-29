@@ -10,6 +10,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0014-longest-common-prefix](https://github.com/sagarikamohantyy/daily-practice/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/sagarikamohantyy/daily-practice/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/sagarikamohantyy/daily-practice/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarikamohantyy/daily-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -114,6 +115,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/sagarikamohantyy/daily-practice/tree/master/0055-jump-game) |
+| [0118-pascals-triangle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarikamohantyy/daily-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
