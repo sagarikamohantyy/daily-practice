@@ -34,6 +34,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/sagarikamohantyy/daily-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [1331-rank-transform-of-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sagarikamohantyy/daily-practice/tree/master/1833-maximum-ice-cream-bars) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sagarikamohantyy/daily-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -55,6 +57,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [1189-maximum-number-of-balloons](https://github.com/sagarikamohantyy/daily-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/sagarikamohantyy/daily-practice/tree/master/1833-maximum-ice-cream-bars) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
@@ -78,6 +81,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [1189-maximum-number-of-balloons](https://github.com/sagarikamohantyy/daily-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 ## String
 |  |
@@ -93,6 +97,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [2129-capitalize-the-title](https://github.com/sagarikamohantyy/daily-practice/tree/master/2129-capitalize-the-title) |
 | [2942-find-words-containing-character](https://github.com/sagarikamohantyy/daily-practice/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
