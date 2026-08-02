@@ -18,6 +18,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/sagarikamohantyy/daily-practice/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sagarikamohantyy/daily-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/sagarikamohantyy/daily-practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sagarikamohantyy/daily-practice/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
 | [1331-rank-transform-of-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -127,6 +128,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0120-triangle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarikamohantyy/daily-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0877-stone-game](https://github.com/sagarikamohantyy/daily-practice/tree/master/0877-stone-game) |
 ## String Matching
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0231-power-of-two](https://github.com/sagarikamohantyy/daily-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sagarikamohantyy/daily-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/sagarikamohantyy/daily-practice/tree/master/0877-stone-game) |
 | [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -174,4 +177,8 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/sagarikamohantyy/daily-practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
