@@ -97,6 +97,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0520-detect-capital](https://github.com/sagarikamohantyy/daily-practice/tree/master/0520-detect-capital) |
 | [1189-maximum-number-of-balloons](https://github.com/sagarikamohantyy/daily-practice/tree/master/1189-maximum-number-of-balloons) |
 | [2129-capitalize-the-title](https://github.com/sagarikamohantyy/daily-practice/tree/master/2129-capitalize-the-title) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/sagarikamohantyy/daily-practice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2942-find-words-containing-character](https://github.com/sagarikamohantyy/daily-practice/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -172,6 +173,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 ## Simulation
 |  |
 | ------- |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/sagarikamohantyy/daily-practice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
