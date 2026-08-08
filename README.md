@@ -21,6 +21,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0877-stone-game](https://github.com/sagarikamohantyy/daily-practice/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/sagarikamohantyy/daily-practice/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
+| [1004-max-consecutive-ones-iii](https://github.com/sagarikamohantyy/daily-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
@@ -72,6 +73,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0004-median-of-two-sorted-arrays](https://github.com/sagarikamohantyy/daily-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/sagarikamohantyy/daily-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/sagarikamohantyy/daily-practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sagarikamohantyy/daily-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/sagarikamohantyy/daily-practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/sagarikamohantyy/daily-practice/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -171,6 +174,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0209-minimum-size-subarray-sum](https://github.com/sagarikamohantyy/daily-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/sagarikamohantyy/daily-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sagarikamohantyy/daily-practice/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/sagarikamohantyy/daily-practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Recursion
 |  |
 | ------- |
