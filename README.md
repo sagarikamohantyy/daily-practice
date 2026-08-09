@@ -8,6 +8,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sagarikamohantyy/daily-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/sagarikamohantyy/daily-practice/tree/master/0014-longest-common-prefix) |
+| [0036-valid-sudoku](https://github.com/sagarikamohantyy/daily-practice/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/sagarikamohantyy/daily-practice/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/sagarikamohantyy/daily-practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0118-pascals-triangle) |
@@ -83,6 +84,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagarikamohantyy/daily-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/sagarikamohantyy/daily-practice/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/sagarikamohantyy/daily-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/sagarikamohantyy/daily-practice/tree/master/0424-longest-repeating-character-replacement) |
@@ -202,4 +204,8 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/sagarikamohantyy/daily-practice/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
