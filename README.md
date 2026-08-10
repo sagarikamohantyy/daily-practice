@@ -16,6 +16,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarikamohantyy/daily-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/sagarikamohantyy/daily-practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/sagarikamohantyy/daily-practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/sagarikamohantyy/daily-practice/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sagarikamohantyy/daily-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -46,6 +47,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sagarikamohantyy/daily-practice/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/sagarikamohantyy/daily-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sagarikamohantyy/daily-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sagarikamohantyy/daily-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -85,6 +87,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sagarikamohantyy/daily-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/sagarikamohantyy/daily-practice/tree/master/0036-valid-sudoku) |
+| [0217-contains-duplicate](https://github.com/sagarikamohantyy/daily-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sagarikamohantyy/daily-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/sagarikamohantyy/daily-practice/tree/master/0424-longest-repeating-character-replacement) |
