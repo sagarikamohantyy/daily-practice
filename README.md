@@ -31,6 +31,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [1833-maximum-ice-cream-bars](https://github.com/sagarikamohantyy/daily-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2942-find-words-containing-character](https://github.com/sagarikamohantyy/daily-practice/tree/master/2942-find-words-containing-character) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sagarikamohantyy/daily-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3731-find-missing-elements](https://github.com/sagarikamohantyy/daily-practice/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/sagarikamohantyy/daily-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -97,6 +98,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [1189-maximum-number-of-balloons](https://github.com/sagarikamohantyy/daily-practice/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sagarikamohantyy/daily-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3731-find-missing-elements](https://github.com/sagarikamohantyy/daily-practice/tree/master/3731-find-missing-elements) |
@@ -183,6 +185,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0424-longest-repeating-character-replacement](https://github.com/sagarikamohantyy/daily-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sagarikamohantyy/daily-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagarikamohantyy/daily-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sagarikamohantyy/daily-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Recursion
 |  |
 | ------- |
