@@ -162,6 +162,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0120-triangle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sagarikamohantyy/daily-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/sagarikamohantyy/daily-practice/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/sagarikamohantyy/daily-practice/tree/master/0877-stone-game) |
 ## String Matching
 |  |
@@ -189,6 +190,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0191-number-of-1-bits](https://github.com/sagarikamohantyy/daily-practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sagarikamohantyy/daily-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/sagarikamohantyy/daily-practice/tree/master/0338-counting-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sagarikamohantyy/daily-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
 |  |
