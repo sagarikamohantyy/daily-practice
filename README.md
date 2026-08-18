@@ -35,6 +35,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [2942-find-words-containing-character](https://github.com/sagarikamohantyy/daily-practice/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sagarikamohantyy/daily-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sagarikamohantyy/daily-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3379-transformed-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/3379-transformed-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sagarikamohantyy/daily-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/sagarikamohantyy/daily-practice/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/sagarikamohantyy/daily-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -217,6 +218,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/sagarikamohantyy/daily-practice/tree/master/2138-divide-a-string-into-groups-of-size-k) |
+| [3379-transformed-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/3379-transformed-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
