@@ -207,6 +207,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sagarikamohantyy/daily-practice/tree/master/0231-power-of-two) |
 ## Number Theory
 |  |
@@ -236,4 +237,8 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sagarikamohantyy/daily-practice/tree/master/0036-valid-sudoku) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
