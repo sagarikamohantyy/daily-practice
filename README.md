@@ -98,6 +98,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0036-valid-sudoku](https://github.com/sagarikamohantyy/daily-practice/tree/master/0036-valid-sudoku) |
 | [0076-minimum-window-substring](https://github.com/sagarikamohantyy/daily-practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/sagarikamohantyy/daily-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sagarikamohantyy/daily-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
@@ -149,6 +150,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0075-sort-colors](https://github.com/sagarikamohantyy/daily-practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sagarikamohantyy/daily-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/sagarikamohantyy/daily-practice/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
@@ -243,9 +245,11 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
