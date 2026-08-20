@@ -153,6 +153,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0142-linked-list-cycle-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/sagarikamohantyy/daily-practice/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0876-middle-of-the-linked-list) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Trie
@@ -247,6 +248,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0141-linked-list-cycle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
