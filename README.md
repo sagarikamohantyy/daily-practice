@@ -187,6 +187,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sagarikamohantyy/daily-practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/sagarikamohantyy/daily-practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sagarikamohantyy/daily-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/sagarikamohantyy/daily-practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
