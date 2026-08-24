@@ -19,6 +19,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0217-contains-duplicate](https://github.com/sagarikamohantyy/daily-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sagarikamohantyy/daily-practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/sagarikamohantyy/daily-practice/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sagarikamohantyy/daily-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -84,6 +85,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0004-median-of-two-sorted-arrays](https://github.com/sagarikamohantyy/daily-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/sagarikamohantyy/daily-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagarikamohantyy/daily-practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -151,6 +153,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0125-valid-palindrome](https://github.com/sagarikamohantyy/daily-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sagarikamohantyy/daily-practice/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -199,6 +202,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0191-number-of-1-bits](https://github.com/sagarikamohantyy/daily-practice/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sagarikamohantyy/daily-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sagarikamohantyy/daily-practice/tree/master/0338-counting-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sagarikamohantyy/daily-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
@@ -258,4 +262,9 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
