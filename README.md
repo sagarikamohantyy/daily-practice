@@ -101,6 +101,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0076-minimum-window-substring](https://github.com/sagarikamohantyy/daily-practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/sagarikamohantyy/daily-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sagarikamohantyy/daily-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
@@ -153,6 +154,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0125-valid-palindrome](https://github.com/sagarikamohantyy/daily-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sagarikamohantyy/daily-practice/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -181,6 +183,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/sagarikamohantyy/daily-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sagarikamohantyy/daily-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -262,6 +265,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
