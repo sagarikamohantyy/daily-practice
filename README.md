@@ -154,6 +154,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0125-valid-palindrome](https://github.com/sagarikamohantyy/daily-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0287-find-the-duplicate-number) |
@@ -223,6 +224,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sagarikamohantyy/daily-practice/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0234-palindrome-linked-list) |
@@ -259,6 +261,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sagarikamohantyy/daily-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0876-middle-of-the-linked-list) |
@@ -277,5 +280,6 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
