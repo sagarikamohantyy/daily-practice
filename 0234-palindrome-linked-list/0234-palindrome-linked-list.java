@@ -17,29 +17,29 @@ class Solution {
             slow=slow.next;
             fast=fast.next.next;
         }
-        ListNode prev=null;
-        ListNode curr=head;
+        if(fast!=null){
+            slow=slow.next;
+        }
 
-        while(curr!=slow){
-            ListNode next=curr.next; 
+        ListNode prev=null;
+        ListNode curr=slow;
+
+        while(curr!=null){
+            ListNode temp=curr.next; 
             curr.next=prev;
             prev=curr;
-            curr=next;
+            curr=temp;
         }
-
-        ListNode second=slow;
-        if(fast!=null){
-            second=slow.next;
-        }
-
-        while(prev!=null && second!=null){
-            if(prev.val!=second.val)
+        ListNode first=head;
+        ListNode second=prev;
+        
+        while(second!=null){
+            if(first.val!=second.val)
                 return false;
 
-            prev=prev.next;
+            first=first.next;
             second=second.next;
         }
-
         return true;
     }
 }
