@@ -33,6 +33,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [1732-find-the-highest-altitude](https://github.com/sagarikamohantyy/daily-practice/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/sagarikamohantyy/daily-practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sagarikamohantyy/daily-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2942-find-words-containing-character](https://github.com/sagarikamohantyy/daily-practice/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sagarikamohantyy/daily-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sagarikamohantyy/daily-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -63,6 +64,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [1331-rank-transform-of-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/sagarikamohantyy/daily-practice/tree/master/1833-maximum-ice-cream-bars) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sagarikamohantyy/daily-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sagarikamohantyy/daily-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sagarikamohantyy/daily-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sagarikamohantyy/daily-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -219,6 +221,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0424-longest-repeating-character-replacement](https://github.com/sagarikamohantyy/daily-practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sagarikamohantyy/daily-practice/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagarikamohantyy/daily-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sagarikamohantyy/daily-practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sagarikamohantyy/daily-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sagarikamohantyy/daily-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
