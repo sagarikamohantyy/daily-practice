@@ -27,6 +27,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0904-fruit-into-baskets](https://github.com/sagarikamohantyy/daily-practice/tree/master/0904-fruit-into-baskets) |
 | [0923-3sum-with-multiplicity](https://github.com/sagarikamohantyy/daily-practice/tree/master/0923-3sum-with-multiplicity) |
 | [1004-max-consecutive-ones-iii](https://github.com/sagarikamohantyy/daily-practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sagarikamohantyy/daily-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1331-rank-transform-of-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
@@ -192,6 +193,7 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | [0268-missing-number](https://github.com/sagarikamohantyy/daily-practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sagarikamohantyy/daily-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/sagarikamohantyy/daily-practice/tree/master/0877-stone-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/sagarikamohantyy/daily-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sagarikamohantyy/daily-practice/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1512-number-of-good-pairs](https://github.com/sagarikamohantyy/daily-practice/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sagarikamohantyy/daily-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -285,4 +287,8 @@ Daily coding practice in C/C++ and DSA while maintaining cosistency through regu
 | ------- |
 | [0143-reorder-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sagarikamohantyy/daily-practice/tree/master/0234-palindrome-linked-list) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/sagarikamohantyy/daily-practice/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
